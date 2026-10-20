@@ -9,6 +9,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | [0001-two-sum](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -27,4 +28,8 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
