@@ -34,4 +34,12 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
