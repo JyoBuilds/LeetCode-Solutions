@@ -42,4 +42,13 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
