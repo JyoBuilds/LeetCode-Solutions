@@ -7,6 +7,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0054-spiral-matrix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -41,6 +42,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Math
@@ -51,4 +53,8 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
