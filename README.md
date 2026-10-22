@@ -18,6 +18,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | [0014-longest-common-prefix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -59,4 +61,20 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
