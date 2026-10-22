@@ -17,6 +17,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0205-isomorphic-strings](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0205-isomorphic-strings](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Math
