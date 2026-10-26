@@ -13,11 +13,13 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | [0118-pascals-triangle](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -76,5 +79,10 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
