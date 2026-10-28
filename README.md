@@ -14,6 +14,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | [0119-pascals-triangle-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +87,28 @@ My LeetCode solutions using C++ for DSA and placement preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/JyoBuilds/LeetCode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
